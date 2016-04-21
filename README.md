@@ -12,10 +12,11 @@ Based on <a href='https://gist.github.com/AustinBGibbons/2200f6a5a924a8bd1f3f697
 
 ###If you have no php web server available to test<br>
 I built a small web form on my server to upload input.txt - no validation as this is outside of original scope.<br>
+If you want to use the original input.txt that was provided in instruction - just go <a href='http://localhoststudios.com/periscope/dust_bunnies.php'>here</a> and open dev console.  (F12 key if you use chrome or IE)
 * Go to http://localhoststudios.com/periscope/upload.php<br>
 * Click Select File<br>
 * Browse to test file (should be named input.txt)<br>
 * Click upload<br>
-* Follow link back to dust_bunnies.php and look at console (F12 key if you use chrome or IE)<br>
+* Follow link back to dust_bunnies.php and look at console<br>
 
 There are many ways to do this - such as using mulitdimensional arrays to actually map out the room and dust locations. But sometimes - simpler is better. :)
