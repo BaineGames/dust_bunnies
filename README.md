@@ -16,6 +16,6 @@ I built a small web form on my server to upload input.txt - no validation as thi
 * Click Select File<br>
 * Browse to test file (should be named input.txt)<br>
 * Click upload<br>
-* Follow link back to dust_bunnies.php and look at console<br>
+* Follow link back to dust_bunnies.php and look at console (F12 key if you use chrome or IE)<br>
 
 There are many ways to do this - such as using mulitdimensional arrays to actually map out the room and dust locations. But sometimes - simpler is better. :)
