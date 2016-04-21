@@ -1,7 +1,7 @@
 # Dust Bunnies
 
 Based on <a href='https://gist.github.com/AustinBGibbons/2200f6a5a924a8bd1f3f69714846a080'>instructions given</a>, there are certain absolutes taken into account<br>
-* file format of insert.txt does not change<br>
+* file format of input.txt does not change<br>
 * no logging for wall collsions<br>
 * require console.log output over sending to screen as text - so screen remains blank<br>
 
